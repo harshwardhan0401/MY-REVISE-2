@@ -8,7 +8,7 @@ def subtract(x,y):
 
 #MULTIPLY IMPLEMENTED
 def multiply(x,y):
-    pass
+    return x*y          #Implemented multiplication on Local repo
 
 #DIVIDE IMPLEMENTED
 def divide(x,y):
