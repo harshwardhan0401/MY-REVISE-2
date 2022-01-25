@@ -4,7 +4,7 @@ def add(x,y):
 
 #SUBSTRACT IMPLEMENTED
 def subtract(x,y):
-    pass
+    return x-y       #Implemented changes in Remote main
 
 #MULTIPLY IMPLEMENTED
 def multiply(x,y):
